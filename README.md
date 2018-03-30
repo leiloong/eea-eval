@@ -1,2 +1,1 @@
-# eea-eval
-Experimental analysis of knowledge graph embedding for entity alignment
+# Experimental analysis of knowledge graph embedding for entity alignment
