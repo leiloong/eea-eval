@@ -1,6 +1,8 @@
 ### Experimental analysis of knowledge graph embedding for entity alignment
-Knowledge graph (KG) embedding has demonstrated its ef- fectiveness in many areas such as KG completion and question answering. For entity alignment, embedding-based methods expect to learn similar embeddings for aligned entities. However, as an emerging field, there are no benchmark datasets and experimental analysis for embedding-based entity alignment yet. We developed a degree-based sampling method to generate 42 alignment-oriented datasets from real-world large-scale KGs, representing different heterogeneities of the original KGs. We se- lected three state-of-the-art embedding-based entity alignment methods for evaluation and comparison. Furthermore, we observed that multi- mapping relations and literal embedding are the two main obstacles for embedding-based entity alignment and some preliminary solutions were attempted. Specifically, we leveraged several enhanced KG embedding models to handle multi-mapping relations and used word2vec to incor- porate literal similarities into embeddings. Our findings indicate that the performance of existing embedding-based methods is influenced by the characteristics of datasets and not all KG embedding models are suitable for entity alignment. Alignment-oriented KG embedding remains to be explored.
+We developed a degree-based sampling method to generate 42 alignment-oriented datasets from real-world large-scale KGs, representing different heterogeneities of the original KGs. We selected three state-of-the-art embedding-based entity alignment methods for evaluation and comparison. Furthermore, we observed that multimapping relations and literal embedding are the two main obstacles for embedding-based entity alignment and some preliminary solutions were attempted. Specifically, we leveraged several enhanced KG embedding models to handle multi-mapping relations and used word2vec to incorporate literal similarities into embeddings. Our findings indicate that the performance of existing embedding-based methods is influenced by the characteristics of datasets and not all KG embedding models are suitable for entity alignment. Alignment-oriented KG embedding remains to be explored.
 
-##### Statistics of the 100K datasets
+#### Dataset
 
-##### The datasets can be download here ...
+#### Code
+
+#### Experimental Results
