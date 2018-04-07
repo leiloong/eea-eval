@@ -15,7 +15,7 @@ The statistics of the 100K datasets are shown below.
 
 ### Code
 
-The code folder contains two subfolders: 
+Folder "code" contains two subfolders: 
 * "comparative_method" contains the code of all comparative methods.
 * "data_sampling" contains the code of our degree-based sampling method.
 
@@ -27,6 +27,7 @@ The code folder contains two subfolders:
 * sklearn
 
 ### Experimental Results
-The file results.xlsx contains our detailed experimental results.
+The file results.xlsx contains our detailed experimental results. 
+Folder "figure" contains some figures about our experimental results.
 
 > If you have any difficulty or question in running code and reproducing expriment results, please email to zqsun.nju@gmail.com and whu@nju.edu.cn.
