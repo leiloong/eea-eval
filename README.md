@@ -17,7 +17,7 @@ The statistics of the 100K datasets are shown below.
 
 Folder "code" contains two subfolders: 
 * "comparative_method" contains the code of all comparative methods.
-* "data_sampling" contains the code of our degree-based sampling method.
+* "data_handler" contains the code of our degree-based sampling method.
 
 #### Dependencies
 * Python 3
