@@ -18,16 +18,14 @@ The statistics of the 100K datasets are shown below.
     </tr>
     <tr>
         <td colspan="2" rowspan="2"></td>
-        <td style="text-align:center" colspan="3">V1</td>
-        <td style="text-align:center" colspan="3">V2</td>
+        <td style="text-align:center" colspan="2">V1</td>
+        <td style="text-align:center" colspan="2">V2</td>
     </tr>
     <tr>
-        <td style="text-align:center">MTransE</td>
-        <td style="text-align:center">IPTransE</td>
-        <td style="text-align:center">JAPE</td>
-        <td style="text-align:center">MTransE</td>
-        <td style="text-align:center">IPTransE</td>
-        <td style="text-align:center">JAPE</td>
+        <td style="text-align:center">DBpedia</td>
+        <td style="text-align:center">Wikidata</td>
+        <td style="text-align:center">DBpedia</td>
+        <td style="text-align:center">Wikidata</td>
     </tr>
     <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
@@ -36,8 +34,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">21.84</td>
 	<td style="text-align:center">22.67</td>
 	<td style="text-align:center">25.4</td>
-	<td style="text-align:center">30.71</td>
-	<td style="text-align:center">21.1</td></tr>
 	</tr>
 <tr>
 	<td style="text-align:center">S2</td>
@@ -45,8 +41,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">22.12</td>
 	<td style="text-align:center">20.88</td>
 	<td style="text-align:center">24.33</td>
-	<td style="text-align:center">29.16</td>
-	<td style="text-align:center">24.85</td>
 </tr>
 <tr>
 	<td style="text-align:center">S3</td>
@@ -54,8 +48,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">25.78</td>
 	<td style="text-align:center">24.17</td>
 	<td style="text-align:center">23.1</td>
-	<td style="text-align:center">27.81</td>
-	<td style="text-align:center">23.23</td>
 </tr>
 <tr>
 	<td style="text-align:center">AVG</td>
@@ -63,8 +55,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">23.25</td>
 	<td style="text-align:center">22.57</td>
 	<td style="text-align:center">24.28</td>
-	<td style="text-align:center">29.23</td>
-	<td style="text-align:center">23.06</td>
 </tr>
     
 <tr>
@@ -74,8 +64,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">40.13</td>
 	<td style="text-align:center">43.32</td>
 	<td style="text-align:center">49.3</td>
-	<td style="text-align:center">59.2</td>
-	<td style="text-align:center">43.57</td>
 </tr>
 <tr>
 	<td style="text-align:center">S2</td>
@@ -83,8 +71,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">42.52</td>
 	<td style="text-align:center">40.92</td>
 	<td style="text-align:center">46.15</td>
-	<td style="text-align:center">54.91</td>
-	<td style="text-align:center">47.55</td>
 </tr>
 <tr>
 	<td style="text-align:center">S3</td>
@@ -92,8 +78,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">48.57</td>
 	<td style="text-align:center">46.16</td>
 	<td style="text-align:center">45.5</td>
-	<td style="text-align:center">53.74</td>
-	<td style="text-align:center">46.47</td>
 </tr>
 <tr>
 	<td style="text-align:center">AVG</td>
@@ -101,8 +85,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">43.74</td>
 	<td style="text-align:center">43.47</td>
 	<td style="text-align:center">46.98</td>
-	<td style="text-align:center">55.95</td>
-	<td style="text-align:center">45.86</td>
 </tr>	
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Rel. triples</td>
@@ -111,8 +93,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">876.47</td>
 	<td style="text-align:center">790.99</td>
 	<td style="text-align:center">628.08</td>
-	<td style="text-align:center">243.95</td>
-	<td style="text-align:center">534.53</td>
 </tr>
 <tr>
 	<td style="text-align:center">S2</td>
@@ -129,8 +109,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">884.98</td>
 	<td style="text-align:center">946.76</td>
 	<td style="text-align:center">835.63</td>
-	<td style="text-align:center">440.26</td>
-	<td style="text-align:center">579.05</td>
 </tr>
 <tr>
 	<td style="text-align:center">AVG</td>
@@ -138,8 +116,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">899.08</td>
 	<td style="text-align:center">860.03</td>
 	<td style="text-align:center">816.48</td>
-	<td style="text-align:center">388.26</td>
-	<td style="text-align:center">622.84</td>
 </tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attr. triples</td>
@@ -148,8 +124,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">0.28</td>
 	<td style="text-align:center">0.3</td>
 	<td style="text-align:center">0.34</td>
-	<td style="text-align:center">0.4</td>
-	<td style="text-align:center">0.29</td>
 </tr>
 <tr>
 	<td style="text-align:center">S2</td>
@@ -157,16 +131,12 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">0.29</td>
 	<td style="text-align:center">0.28</td>
 	<td style="text-align:center">0.32</td>
-	<td style="text-align:center">0.38</td>
-	<td style="text-align:center">0.33</td>
 </tr>
 <tr>
 	<td style="text-align:center">S3</td>
 	<td style="text-align:center">0.31</td>
 	<td style="text-align:center">0.34</td>
 	<td style="text-align:center">0.32</td>
-	<td style="text-align:center">0.31</td>
-	<td style="text-align:center">0.37</td>
 	<td style="text-align:center">0.31</td>
 </tr>
 <tr>
@@ -175,8 +145,6 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">0.3</td>
 	<td style="text-align:center">0.3</td>
 	<td style="text-align:center">0.32</td>
-	<td style="text-align:center">0.38</td>
-	<td style="text-align:center">0.31</td>
 </tr>
 </table>
 
