@@ -402,6 +402,244 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">0.02</td></tr>
 </table>
 
+<table style="text-align:center;font-size:10px" align="center">
+    <tr>
+        <th style="text-align:center"  colspan="21">DBP(en-fr)-100K-V1</th>
+    </tr>
+    <tr>
+	<td colspan="2"></td>
+        <td style="text-align:center">MTransE</td>
+        <td style="text-align:center">IPTransE</td>
+        <td style="text-align:center">JAPE</td>
+        <td style="text-align:center">MTransE</td>
+        <td style="text-align:center">IPTransE</td>
+        <td style="text-align:center">JAPE</td>
+    </tr>
+    <tr>
+	<td style="text-align:center;valign:middle" rowspan=5>Hits@1</td>
+    	<td style="text-align:center">S1</td>
+	<td style="text-align:center">21.77</td>
+	<td style="text-align:center">25.68</td>
+	<td style="text-align:center">23.95</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">22.57</td>
+	<td style="text-align:center">25.93</td>
+	<td style="text-align:center">24.06</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">22.77</td>
+	<td style="text-align:center">25.78</td>
+	<td style="text-align:center">24.23</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">22.37</td>
+	<td style="text-align:center">25.8</td>
+	<td style="text-align:center">24.08</td></tr>
+<tr>
+	<td style="text-align:center">STDEV</td>
+	<td style="text-align:center">0.53</td>
+	<td style="text-align:center">0.13</td>
+	<td style="text-align:center">0.14</td></tr>
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=5>Hits@10</td>
+	<td style="text-align:center">S1</td>
+	<td style="text-align:center">42.72</td>
+	<td style="text-align:center">49.74</td>
+	<td style="text-align:center">46.03</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">43.83</td>
+	<td style="text-align:center">50.36</td>
+	<td style="text-align:center">46.21</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">44.48</td>
+	<td style="text-align:center">50.17</td>
+	<td style="text-align:center">46.09</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">43.68</td>
+	<td style="text-align:center">50.09</td>
+	<td style="text-align:center">46.11</td></tr>
+<tr>
+	<td style="text-align:center">STDEV</td>
+	<td style="text-align:center">0.89</td>
+	<td style="text-align:center">0.32</td>
+	<td style="text-align:center">0.09</td></tr>
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=5>MR</td>
+	<td style="text-align:center">S1</td>
+	<td style="text-align:center">786.23</td>
+	<td style="text-align:center">458.14</td>
+	<td style="text-align:center">517.07</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">690.31</td>
+	<td style="text-align:center">495.25</td>
+	<td style="text-align:center">506.02</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">707.15</td>
+	<td style="text-align:center">483.05</td>
+	<td style="text-align:center">509.85</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">727.89</td>
+	<td style="text-align:center">478.81</td>
+	<td style="text-align:center">510.98</td></tr>
+<tr>
+	<td style="text-align:center">STDEV</td>
+	<td style="text-align:center">51.22</td>
+	<td style="text-align:center">18.91</td>
+	<td style="text-align:center">5.61</td></tr>
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=5>MRR</td>
+	td style="text-align:center">S1</td>
+	<td style="text-align:center">0.289</td>
+	<td style="text-align:center">0.339</td>
+	<td style="text-align:center">0.315</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">0.299</td>
+	<td style="text-align:center">0.34</td>
+	<td style="text-align:center">0.32</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">0.302</td>
+	<td style="text-align:center">0.341</td>
+	<td style="text-align:center">0.318</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">0.3</td>
+	<td style="text-align:center">0.34</td>
+	<td style="text-align:center">0.32</td></tr>
+<tr>
+	<td style="text-align:center">STDEV</td>
+	<td style="text-align:center">0.01</td>
+	<td style="text-align:center">0</td>
+	<td style="text-align:center">0</td></tr>
+</table>
+
+<table style="text-align:center;font-size:10px" align="center">
+    <tr>
+        <th style="text-align:center"  colspan="21">DBP(en-de)-100K-V1</th>
+    </tr>
+    <tr>
+	<td colspan="2"></td>
+        <td style="text-align:center">MTransE</td>
+        <td style="text-align:center">IPTransE</td>
+        <td style="text-align:center">JAPE</td>
+        <td style="text-align:center">MTransE</td>
+        <td style="text-align:center">IPTransE</td>
+        <td style="text-align:center">JAPE</td>
+    </tr>
+    <tr>
+	<td style="text-align:center;valign:middle" rowspan=5>Hits@1</td>
+	<td style="text-align:center">S1</td>
+	<td style="text-align:center">20.28</td>
+	<td style="text-align:center">22.07</td>
+	<td style="text-align:center">22.06</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">20.83</td>
+	<td style="text-align:center">23.48</td>
+	<td style="text-align:center">22.5</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">20.48</td>
+	<td style="text-align:center">22.95</td>
+	<td style="text-align:center">22.76</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">20.53</td>
+	<td style="text-align:center">22.83</td>
+	<td style="text-align:center">22.44</td></tr>
+<tr>
+	<td style="text-align:center">STDEV</td>
+	<td style="text-align:center">0.28</td>
+	<td style="text-align:center">0.71</td>
+	<td style="text-align:center">0.35</td></tr>
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=5>Hits@10</td>
+	<td style="text-align:center">S1</td>
+	<td style="text-align:center">40.48</td>
+	<td style="text-align:center">42.96</td>
+	<td style="text-align:center">43.43</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">41.47</td>
+	<td style="text-align:center">45.45</td>
+	<td style="text-align:center">44.03</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">40.92</td>
+	<td style="text-align:center">45.56</td>
+	<td style="text-align:center">44.36</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">40.96</td>
+	<td style="text-align:center">44.66</td>
+	<td style="text-align:center">43.94</td></tr>
+<tr>
+	<td style="text-align:center">STDEV</td>
+	<td style="text-align:center">0.5</td>
+	<td style="text-align:center">1.47</td>
+	<td style="text-align:center">0.47</td></tr>
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=5>MR</td>
+	<td style="text-align:center">S1</td>
+	<td style="text-align:center">1911.12</td>
+	<td style="text-align:center">1322.36</td>
+	<td style="text-align:center">1188.68</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">1838.08</td>
+	<td style="text-align:center">1003.97</td>
+	<td style="text-align:center">1171.12</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">2024.47</td>
+	<td style="text-align:center">962.2</td>
+	<td style="text-align:center">1202.8</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">1924.56</td>
+	<td style="text-align:center">1096.18</td>
+	<td style="text-align:center">1187.53</td></tr>
+<tr>
+	<td style="text-align:center">STDEV</td>
+	<td style="text-align:center">93.92</td>
+	<td style="text-align:center">196.99</td>
+	<td style="text-align:center">15.87</td></tr>
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=5>MRR</td>
+	<td style="text-align:center">S1</td>
+	<td style="text-align:center">0.272</td>
+	<td style="text-align:center">0.292</td>
+	<td style="text-align:center">0.293</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">0.279</td>
+	<td style="text-align:center">0.31</td>
+	<td style="text-align:center">0.3</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">0.275</td>
+	<td style="text-align:center">0.306</td>
+	<td style="text-align:center">0.302</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">0.28</td>
+	<td style="text-align:center">0.3</td>
+	<td style="text-align:center">0.3</td></tr>
+<tr>
+	<td style="text-align:center">STDEV</td>
+	<td style="text-align:center">0</td>
+	<td style="text-align:center">0.01</td>
+	<td style="text-align:center">0</td></tr>
+</table>
+
 ### Code
 
 Folder "code" contains two subfolders: 
