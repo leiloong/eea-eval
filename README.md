@@ -14,10 +14,18 @@ The statistics of the 100K datasets are shown below.
 
 <table style="text-align:center;font-size:10px" align="center">
     <tr>
-        <th style="text-align:center"  colspan="21">DBP-WD-V1</th>
+        <th style="text-align:center"  colspan="21">DBP-WD-100K</th>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2"></td>
+        <td style="text-align:center" colspan="3">V1</td>
+        <td style="text-align:center" colspan="3">V2</td>
     </tr>
     <tr>
         <td colspan="2"></td>
+        <td style="text-align:center">MTransE</td>
+        <td style="text-align:center">IPTransE</td>
+        <td style="text-align:center">JAPE</td>
         <td style="text-align:center">MTransE</td>
         <td style="text-align:center">IPTransE</td>
         <td style="text-align:center">JAPE</td>
