@@ -2,10 +2,10 @@
 > We developed a degree-based sampling method to generate 42 alignment-oriented datasets from real-world large-scale KGs, representing different heterogeneities of the original KGs. We selected three state-of-the-art embedding-based entity alignment methods for evaluation and comparison. Furthermore, we observed that multi-mapping relations and literal embedding are the two main obstacles for embedding-based entity alignment and some preliminary solutions were attempted. Specifically, we leveraged several enhanced KG embedding models to handle multi-mapping relations and used word2vec to incorporate literal similarities into embeddings. Our findings indicate that the performance of existing embedding-based methods is influenced by the characteristics of datasets and not all KG embedding models are suitable for entity alignment. Alignment-oriented KG embedding remains to be explored.
 
 ### Dataset
-Our datasets can be found [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0). It contains three folders namely "_1", "_2" and "_3", denoting our three samples.
+All datasets can be downloaded from [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
 
-For each dataset, we have 5 files:
-* ent_links: all the reference entity alignmet
+For each dataset, we have five files:
+* ent_links: reference entity alignmet
 * triples_1: relation triples of sampled entities in KG1
 * triples_2: relation triples of sampled entities in KG2
 * attr_triples_1: attribute triples of sampled entities in KG1
@@ -29,7 +29,7 @@ The statistics of the 100K datasets are shown below.
         <td style="text-align:center">Wikidata</td>
     </tr>
     <tr>
-	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
+	<td style="text-align:center;valign:middle" rowspan=4>Relations</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">358</td>
 	<td style="text-align:center">216</td>
@@ -146,7 +146,7 @@ The statistics of the 100K datasets are shown below.
         <td style="text-align:center">YAGO</td>
     </tr>
     <tr>
-	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
+	<td style="text-align:center;valign:middle" rowspan=4>Relations</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">326</td>
 	<td style="text-align:center">30</td>
@@ -260,7 +260,7 @@ The statistics of the 100K datasets are shown below.
         <td style="text-align:center">de</td>
     </tr>
     <tr>
-	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
+	<td style="text-align:center;valign:middle" rowspan=4>Relations</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">329</td>
 	<td style="text-align:center">257</td>
