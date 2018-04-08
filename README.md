@@ -81,53 +81,53 @@ The statistics of the 100K datasets are shown below.
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Rel. triples</td>
 	<td style="text-align:center">S1</td>
-	<td style="text-align:center">257398</td>
-	<td style="text-align:center">226585</td>
-	<td style="text-align:center">497241</td>
-	<td style="text-align:center">503836</td></tr>
+	<td style="text-align:center">257,398</td>
+	<td style="text-align:center">226,585</td>
+	<td style="text-align:center">497,241</td>
+	<td style="text-align:center">503,836</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">259100</td>
-	<td style="text-align:center">224863</td>
-	<td style="text-align:center">493865</td>
-	<td style="text-align:center">484209</td></tr>
+	<td style="text-align:center">259,100</td>
+	<td style="text-align:center">224,863</td>
+	<td style="text-align:center">493,865</td>
+	<td style="text-align:center">484,209</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">269471</td>
-	<td style="text-align:center">237846</td>
-	<td style="text-align:center">519713</td>
-	<td style="text-align:center">517948</td></tr>
+	<td style="text-align:center">269,471</td>
+	<td style="text-align:center">237,846</td>
+	<td style="text-align:center">519,713</td>
+	<td style="text-align:center">517,948</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">261990</td>
-	<td style="text-align:center">229765</td>
-	<td style="text-align:center">503606</td>
-	<td style="text-align:center">501998</td></tr>
+	<td style="text-align:center">261,990</td>
+	<td style="text-align:center">229,765</td>
+	<td style="text-align:center">503,606</td>
+	<td style="text-align:center">501,998</td></tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attr. triples</td>
 	<td style="text-align:center">S1</td>
-	<td style="text-align:center">399424</td>
-	<td style="text-align:center">593332</td>
-	<td style="text-align:center">385004</td>
-	<td style="text-align:center">838155</td></tr>
+	<td style="text-align:center">399,424</td>
+	<td style="text-align:center">593,332</td>
+	<td style="text-align:center">385,004</td>
+	<td style="text-align:center">838,155</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">398373</td>
-	<td style="text-align:center">587581</td>
-	<td style="text-align:center">397852</td>
-	<td style="text-align:center">830654</td></tr>
+	<td style="text-align:center">398,373</td>
+	<td style="text-align:center">587,581</td>
+	<td style="text-align:center">397,852</td>
+	<td style="text-align:center">830,654</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">397787</td>
-	<td style="text-align:center">619950</td>
-	<td style="text-align:center">389973</td>
-	<td style="text-align:center">856447</td></tr>
+	<td style="text-align:center">397,787</td>
+	<td style="text-align:center">619,950</td>
+	<td style="text-align:center">389,973</td>
+	<td style="text-align:center">856,447</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">398528</td>
-	<td style="text-align:center">600288</td>
-	<td style="text-align:center">390943</td>
-	<td style="text-align:center">841752</td></tr>
+	<td style="text-align:center">398,528</td>
+	<td style="text-align:center">600,288</td>
+	<td style="text-align:center">390,943</td>
+	<td style="text-align:center">841,752</td></tr>
 </table>
 
 <table style="text-align:center;font-size:10px" align="center">
@@ -198,53 +198,53 @@ The statistics of the 100K datasets are shown below.
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Rel. triples</td>
 	<td style="text-align:center">S1</td>
-	<td style="text-align:center">261038</td>
-	<td style="text-align:center">277779</td>
-	<td style="text-align:center">457197</td>
-	<td style="text-align:center">535106</td></tr>
+	<td style="text-align:center">261,038</td>
+	<td style="text-align:center">277,779</td>
+	<td style="text-align:center">457,197</td>
+	<td style="text-align:center">535,106</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">281143</td>
-	<td style="text-align:center">318434</td>
-	<td style="text-align:center">443115</td>
-	<td style="text-align:center">522817</td></tr>
+	<td style="text-align:center">281,143</td>
+	<td style="text-align:center">318,434</td>
+	<td style="text-align:center">443,115</td>
+	<td style="text-align:center">522,817</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">280904</td>
-	<td style="text-align:center">313147</td>
-	<td style="text-align:center">457888</td>
-	<td style="text-align:center">529100</td></tr>
+	<td style="text-align:center">280,904</td>
+	<td style="text-align:center">313,147</td>
+	<td style="text-align:center">457,888</td>
+	<td style="text-align:center">529,100</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">274362</td>
-	<td style="text-align:center">303120</td>
-	<td style="text-align:center">452733</td>
-	<td style="text-align:center">529008</td></tr>
+	<td style="text-align:center">274,362</td>
+	<td style="text-align:center">303,120</td>
+	<td style="text-align:center">452,733</td>
+	<td style="text-align:center">529,008</td></tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attr. triples</td>
 	<td style="text-align:center">S1</td>
-	<td style="text-align:center">425648</td>
-	<td style="text-align:center">141936</td>
-	<td style="text-align:center">442973</td>
-	<td style="text-align:center">108338</td></tr>
+	<td style="text-align:center">425,648</td>
+	<td style="text-align:center">141,936</td>
+	<td style="text-align:center">442,973</td>
+	<td style="text-align:center">108,338</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">413532</td>
-	<td style="text-align:center">131411</td>
-	<td style="text-align:center">442122</td>
-	<td style="text-align:center">111467</td></tr>
+	<td style="text-align:center">413,532</td>
+	<td style="text-align:center">131,411</td>
+	<td style="text-align:center">442,122</td>
+	<td style="text-align:center">111,467</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">420947</td>
-	<td style="text-align:center">136464</td>
-	<td style="text-align:center">448000</td>
-	<td style="text-align:center">105639</td></tr>
+	<td style="text-align:center">420,947</td>
+	<td style="text-align:center">136,464</td>
+	<td style="text-align:center">448,000</td>
+	<td style="text-align:center">105,639</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">420042</td>
-	<td style="text-align:center">136604</td>
-	<td style="text-align:center">444365</td>
-	<td style="text-align:center">108481</td></tr>
+	<td style="text-align:center">420,042</td>
+	<td style="text-align:center">136,604</td>
+	<td style="text-align:center">444,365</td>
+	<td style="text-align:center">108,481</td></tr>
 </table>
 
 <table style="text-align:center;font-size:10px" align="center">
@@ -286,79 +286,87 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">166</td></tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attributes</td>
-	<td style="text-align:center">S1</td>
+	<td style="text-align:center">332</td>
+	<td style="text-align:center">469</td>
+        <td style="text-align:center">S1</td>
 	<td style="text-align:center">360</td>
 	<td style="text-align:center">494</td>
-	<td style="text-align:center">332</td>
-	<td style="text-align:center">469</td></tr>
+	</tr>
 <tr>
 	<td style="text-align:center">S2</td>
+	<td style="text-align:center">331</td>
+	<td style="text-align:center">478</td>
 	<td style="text-align:center">361</td>
 	<td style="text-align:center">494</td>
-	<td style="text-align:center">331</td>
-	<td style="text-align:center">478</td></tr>
+</tr>
 <tr>
 	<td style="text-align:center">S3</td>
+	<td style="text-align:center">331</td>
+	<td style="text-align:center">480</td>
 	<td style="text-align:center">357</td>
 	<td style="text-align:center">489</td>
-	<td style="text-align:center">0</td>
-	<td style="text-align:center">480</td></tr>
+</tr>
 <tr>
 	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">221</td>
+	<td style="text-align:center">476</td>
 	<td style="text-align:center">359</td>
 	<td style="text-align:center">492</td>
-	<td style="text-align:center">221</td>
-	<td style="text-align:center">476</td></tr>
+</tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Rel. triples</td>
 	<td style="text-align:center">S1</td>
-	<td style="text-align:center">367096</td>
-	<td style="text-align:center">294440</td>
-	<td style="text-align:center">273093</td>
-	<td style="text-align:center">230586</td></tr>
+	<td style="text-align:center">367,096</td>
+	<td style="text-align:center">294,440</td>
+	<td style="text-align:center">273,093</td>
+	<td style="text-align:center">230,586</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">367190</td>
-	<td style="text-align:center">294378</td>
-	<td style="text-align:center">274256</td>
-	<td style="text-align:center">232439</td></tr>
+	<td style="text-align:center">367,190</td>
+	<td style="text-align:center">294,378</td>
+	<td style="text-align:center">274,256</td>
+	<td style="text-align:center">232,439</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">367328</td>
-	<td style="text-align:center">294471</td>
-	<td style="text-align:center">275022</td>
-	<td style="text-align:center">232364</td></tr>
+	<td style="text-align:center">367,328</td>
+	<td style="text-align:center">294,471</td>
+	<td style="text-align:center">275,022</td>
+	<td style="text-align:center">232,364</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">367205</td>
-	<td style="text-align:center">294430</td>
-	<td style="text-align:center">274124</td>
-	<td style="text-align:center">231796</td></tr>
+	<td style="text-align:center">367,205</td>
+	<td style="text-align:center">294,430</td>
+	<td style="text-align:center">274,124</td>
+	<td style="text-align:center">231,796</td></tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attr. triples</td>
 	<td style="text-align:center">S1</td>
-	<td style="text-align:center">445878</td>
-	<td style="text-align:center">386557</td>
-	<td style="text-align:center">403321</td>
-	<td style="text-align:center">361330</td></tr>
+	<td style="text-align:center">403,321</td>
+	<td style="text-align:center">361,330</td>
+	<td style="text-align:center">437,144</td>
+	<td style="text-align:center">684,663</td>
+</tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">443409</td>
-	<td style="text-align:center">381795</td>
-	<td style="text-align:center">402443</td>
-	<td style="text-align:center">361648</td></tr>
+	<td style="text-align:center">402,443</td>
+	<td style="text-align:center">361,648</td>
+	<td style="text-align:center">436,472</td>
+	<td style="text-align:center">685,318</td>
+</tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">444744</td>
-	<td style="text-align:center">382894</td>
-	<td style="text-align:center">402764</td>
-	<td style="text-align:center">361788</td></tr>
+	<td style="text-align:center">402,764</td>
+	<td style="text-align:center">361,788</td>
+        <td style="text-align:center">439,633</td>
+	<td style="text-align:center">689,150</td>
+</tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">444677</td>
-	<td style="text-align:center">383749</td>
-	<td style="text-align:center">402843</td>
-	<td style="text-align:center">361589</td></tr>
+	<td style="text-align:center">402,843</td>
+	<td style="text-align:center">361,589</td>
+	<td style="text-align:center">437,750</td>
+	<td style="text-align:center">686,377</td>
+</tr>
 </table>
 
 ### Code
