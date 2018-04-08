@@ -11,63 +11,6 @@ For each dataset, we have xx files:
 ...
 
 The statistics of the 100K datasets are shown below.
-<table style="text-align:center;font-size:10px" align="center">
-    <tr>
-        <th style="text-align:center" colspan=21>DBP-WD-V1</th>
-    </tr>
-    <tr>
-        <td style="text-align:center" rowspan=2></td>
-        <td style="text-align:center" colspan=5>Hits@1</td>
-        <td style="text-align:center" colspan=5>Hits@10</td>
-        <td style="text-align:center" colspan=5>MR</td>
-        <td style="text-align:center" colspan=5>MRR</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">S1</td>
-        <td style="text-align:center">S2</td>
-        <td style="text-align:center">S3</td>
-        <td style="text-align:center">AVG</td>
-        <td style="text-align:center">STDEV</td>
-        <td style="text-align:center">S1</td>
-        <td style="text-align:center">S2</td>
-        <td style="text-align:center">S3</td>
-        <td style="text-align:center">AVG</td>
-        <td style="text-align:center">STDEV</td>
-        <td style="text-align:center">S1</td>
-        <td style="text-align:center">S2</td>
-        <td style="text-align:center">S3</td>
-        <td style="text-align:center">AVG</td>
-        <td style="text-align:center">STDEV</td>
-        <td style="text-align:center">S1</td>
-        <td style="text-align:center">S2</td>
-        <td style="text-align:center">S3</td>
-        <td style="text-align:center">AVG</td>
-        <td style="text-align:center">STDEV</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">MTransE</td>
-        <td style="text-align:center">22.05</td>
-        <td style="text-align:center">20.94</td>
-        <td style="text-align:center">23.24</td>
-        <td style="text-align:center">22.08</td>
-        <td style="text-align:center">1.15</td>
-        <td style="text-align:center">41.38</td>
-        <td style="text-align:center">40.31</td>
-        <td style="text-align:center">44.14</td>
-        <td style="text-align:center">41.94</td>
-        <td style="text-align:center">1.98</td>
-        <td style="text-align:center">1111.74</td>
-        <td style="text-align:center">1041.40</td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-        <td style="text-align:center"></td>
-    </tr>
-</table>
 
 <table style="text-align:center;font-size:10px" align="center">
     <tr>
@@ -79,37 +22,11 @@ The statistics of the 100K datasets are shown below.
         <td style="text-align:center">IPTransE</td>
         <td style="text-align:center">JAPE</td>
     </tr>
-    <tr>
-        <td style="text-align:center;valign:middle" rowspan="5">Hits@1</td>
-        <td style="text-align:center">S1</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">S2</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">S3</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">AVG</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-    </tr>
-    <tr>
-        <td style="text-align:center">STDEV</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-        <td style="text-align:center">123</td>
-    </tr>
+    <tr><td style="text-align:center;valign:middle" rowspan=5>Hits@1</td><td style="text-align:center">S1</td><td style="text-align:center">22.05</td><td style="text-align:center">21.84</td><td style="text-align:center">22.67</td></tr>
+<tr><td style="text-align:center">S2</td><td style="text-align:center">20.94</td><td style="text-align:center">22.12</td><td style="text-align:center">20.88</td></tr>
+<tr><td style="text-align:center">S3</td><td style="text-align:center">23.24</td><td style="text-align:center">25.78</td><td style="text-align:center">24.17</td></tr>
+<tr><td style="text-align:center">AVG</td><td style="text-align:center">22.08</td><td style="text-align:center">23.25</td><td style="text-align:center">22.57</td></tr>
+<tr><td style="text-align:center">STDEV</td><td style="text-align:center">1.15</td><td style="text-align:center">2.2</td><td style="text-align:center">1.65</td></tr>
 </table>
 
 ### Code
