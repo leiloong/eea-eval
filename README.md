@@ -31,26 +31,26 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">358</td>
-	<td style="text-align:center">364</td>
-	<td style="text-align:center">368</td>
-	<td style="text-align:center">363</td></tr>
+	<td style="text-align:center">216</td>
+	<td style="text-align:center">333</td>
+	<td style="text-align:center">221</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">216</td>
+	<td style="text-align:center">364</td>
 	<td style="text-align:center">211</td>
-	<td style="text-align:center">217</td>
-	<td style="text-align:center">215</td></tr>
+	<td style="text-align:center">333</td>
+	<td style="text-align:center">226</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">333</td>
-	<td style="text-align:center">333</td>
+	<td style="text-align:center">368</td>
+	<td style="text-align:center">217</td>
 	<td style="text-align:center">347</td>
-	<td style="text-align:center">338</td></tr>
+	<td style="text-align:center">221</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">221</td>
-	<td style="text-align:center">226</td>
-	<td style="text-align:center">221</td>
+	<td style="text-align:center">363</td>
+	<td style="text-align:center">215</td>
+	<td style="text-align:center">338</td>
 	<td style="text-align:center">223</td></tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attributes</td>
@@ -82,28 +82,27 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">326</td>
-	<td style="text-align:center">358</td>
-	<td style="text-align:center">337</td>
-	<td style="text-align:center">340</td></tr>
+	<td style="text-align:center">30</td>
+	<td style="text-align:center">311</td>
+	<td style="text-align:center">31</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">30</td>
+	<td style="text-align:center">358</td>
 	<td style="text-align:center">31</td>
-	<td style="text-align:center">30</td>
-	<td style="text-align:center">30</td></tr>
+	<td style="text-align:center">320</td>
+	<td style="text-align:center">31</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">311</td>
-	<td style="text-align:center">320</td>
+	<td style="text-align:center">337</td>
+	<td style="text-align:center">30</td>
 	<td style="text-align:center">303</td>
-	<td style="text-align:center">311</td></tr>
+	<td style="text-align:center">31</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">31</td>
-	<td style="text-align:center">31</td>
-	<td style="text-align:center">31</td>
+	<td style="text-align:center">340</td>
+	<td style="text-align:center">30</td>
+	<td style="text-align:center">311</td>
 	<td style="text-align:center">31</td></tr>
-    
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attributes</td>
 	
@@ -134,26 +133,26 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">329</td>
-	<td style="text-align:center">331</td>
-	<td style="text-align:center">331</td>
-	<td style="text-align:center">330</td></tr>
+	<td style="text-align:center">257</td>
+	<td style="text-align:center">305</td>
+	<td style="text-align:center">163</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">257</td>
+	<td style="text-align:center">331</td>
 	<td style="text-align:center">254</td>
-	<td style="text-align:center">256</td>
-	<td style="text-align:center">256</td></tr>
+	<td style="text-align:center">310</td>
+	<td style="text-align:center">167</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
+	<td style="text-align:center">331</td>
+	<td style="text-align:center">256</td>
 	<td style="text-align:center">305</td>
-	<td style="text-align:center">310</td>
-	<td style="text-align:center">305</td>
-	<td style="text-align:center">307</td></tr>
+	<td style="text-align:center">169</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">163</td>
-	<td style="text-align:center">167</td>
-	<td style="text-align:center">169</td>
+	<td style="text-align:center">330</td>
+	<td style="text-align:center">256</td>
+	<td style="text-align:center">307</td>
 	<td style="text-align:center">166</td></tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attributes</td>
