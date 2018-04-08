@@ -11,7 +11,7 @@ For each dataset, we have xx files:
 ...
 
 The statistics of the 100K datasets are shown below.
-<table>
+<table style="text-align:center;font-size:10px" align="center">
     <tr>
         <td style="text-align:center" colspan=21>DBP-WD-V1</td>
     </tr>
