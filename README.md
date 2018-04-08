@@ -22,7 +22,6 @@ The statistics of the 100K datasets are shown below.
         <td style="text-align:center" colspan="3">V2</td>
     </tr>
     <tr>
-        <td colspan="2"></td>
         <td style="text-align:center">MTransE</td>
         <td style="text-align:center">IPTransE</td>
         <td style="text-align:center">JAPE</td>
