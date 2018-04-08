@@ -117,8 +117,8 @@ The statistics of the 100K datasets are shown below.
 <table style="text-align:center;font-size:10px" align="center">
     <tr>
         <td colspan="2" rowspan="2"></td>
-        <td style="text-align:center" colspan="2">DBP(en_fr)-100K</td>
-        <td style="text-align:center" colspan="2">DBP(en_fr)-100K</td>
+        <th style="text-align:center" colspan="2">DBP(en_fr)-100K-V1</th>
+        <th style="text-align:center" colspan="2">DBP(en_fr)-100K-V1</th>
     </tr>
     <tr>
         <td style="text-align:center">en</td>
