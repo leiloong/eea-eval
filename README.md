@@ -69,6 +69,49 @@ The statistics of the 100K datasets are shown below.
     </tr>
 </table>
 
+<table style="text-align:center;font-size:10px" align="center">
+    <tr>
+        <th style="text-align:center"  colspan="21">DBP-WD-V1</th>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+        <td style="text-align:center">MTransE</td>
+        <td style="text-align:center">IPTransE</td>
+        <td style="text-align:center">JAPE</td>
+    </tr>
+    <tr>
+        <td style="text-align:center;valign:middle" rowspan="5">Hits@1</td>
+        <td style="text-align:center">S1</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">S2</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">S3</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">AVG</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">STDEV</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+        <td style="text-align:center">123</td>
+    </tr>
+</table>
+
 ### Code
 
 Folder "code" contains two subfolders: 
