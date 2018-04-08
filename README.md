@@ -30,122 +30,140 @@ The statistics of the 100K datasets are shown below.
     <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
 	<td style="text-align:center">S1</td>
-	<td style="text-align:center">22.05</td>
-	<td style="text-align:center">21.84</td>
-	<td style="text-align:center">22.67</td>
-	<td style="text-align:center">25.4</td>
-	</tr>
+	<td style="text-align:center">358</td>
+	<td style="text-align:center">364</td>
+	<td style="text-align:center">368</td>
+	<td style="text-align:center">363</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">20.94</td>
-	<td style="text-align:center">22.12</td>
-	<td style="text-align:center">20.88</td>
-	<td style="text-align:center">24.33</td>
-</tr>
+	<td style="text-align:center">216</td>
+	<td style="text-align:center">211</td>
+	<td style="text-align:center">217</td>
+	<td style="text-align:center">215</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">23.24</td>
-	<td style="text-align:center">25.78</td>
-	<td style="text-align:center">24.17</td>
-	<td style="text-align:center">23.1</td>
-</tr>
+	<td style="text-align:center">333</td>
+	<td style="text-align:center">333</td>
+	<td style="text-align:center">347</td>
+	<td style="text-align:center">338</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">22.08</td>
-	<td style="text-align:center">23.25</td>
-	<td style="text-align:center">22.57</td>
-	<td style="text-align:center">24.28</td>
-</tr>
+	<td style="text-align:center">221</td>
+	<td style="text-align:center">226</td>
+	<td style="text-align:center">221</td>
+	<td style="text-align:center">223</td></tr>
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=4>Attributes</td>
+	
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=4>Rel. triples</td>
+	
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=4>Attr. triples</td>
+	
+</table>
+
+<table style="text-align:center;font-size:10px" align="center">
+    <tr>
+        <th style="text-align:center"  colspan="21">DBP-WD-100K</th>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2"></td>
+        <td style="text-align:center" colspan="2">V1</td>
+        <td style="text-align:center" colspan="2">V2</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">DBpedia</td>
+        <td style="text-align:center">Wikidata</td>
+        <td style="text-align:center">DBpedia</td>
+        <td style="text-align:center">Wikidata</td>
+    </tr>
+    <tr>
+	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
+	<td style="text-align:center">S1</td>
+	<td style="text-align:center">326</td>
+	<td style="text-align:center">358</td>
+	<td style="text-align:center">337</td>
+	<td style="text-align:center">340</td></tr>
+<tr>
+	<td style="text-align:center">S2</td>
+	<td style="text-align:center">30</td>
+	<td style="text-align:center">31</td>
+	<td style="text-align:center">30</td>
+	<td style="text-align:center">30</td></tr>
+<tr>
+	<td style="text-align:center">S3</td>
+	<td style="text-align:center">311</td>
+	<td style="text-align:center">320</td>
+	<td style="text-align:center">303</td>
+	<td style="text-align:center">311</td></tr>
+<tr>
+	<td style="text-align:center">AVG</td>
+	<td style="text-align:center">31</td>
+	<td style="text-align:center">31</td>
+	<td style="text-align:center">31</td>
+	<td style="text-align:center">31</td></tr>
     
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attributes</td>
-	<td style="text-align:center">S1</td>
-	<td style="text-align:center">41.38</td>
-	<td style="text-align:center">40.13</td>
-	<td style="text-align:center">43.32</td>
-	<td style="text-align:center">49.3</td>
-</tr>
-<tr>
-	<td style="text-align:center">S2</td>
-	<td style="text-align:center">40.31</td>
-	<td style="text-align:center">42.52</td>
-	<td style="text-align:center">40.92</td>
-	<td style="text-align:center">46.15</td>
-</tr>
-<tr>
-	<td style="text-align:center">S3</td>
-	<td style="text-align:center">44.14</td>
-	<td style="text-align:center">48.57</td>
-	<td style="text-align:center">46.16</td>
-	<td style="text-align:center">45.5</td>
-</tr>
-<tr>
-	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">41.94</td>
-	<td style="text-align:center">43.74</td>
-	<td style="text-align:center">43.47</td>
-	<td style="text-align:center">46.98</td>
-</tr>	
+	
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Rel. triples</td>
-	<td style="text-align:center">S1</td>
-	<td style="text-align:center">1111.74</td>
-	<td style="text-align:center">876.47</td>
-	<td style="text-align:center">790.99</td>
-	<td style="text-align:center">628.08</td>
-</tr>
-<tr>
-	<td style="text-align:center">S2</td>
-	<td style="text-align:center">1041.4</td>
-	<td style="text-align:center">935.78</td>
-	<td style="text-align:center">842.33</td>
-	<td style="text-align:center">985.74</td>
-	<td style="text-align:center">480.58</td>
-	<td style="text-align:center">754.94</td>
-</tr>
-<tr>
-	<td style="text-align:center">S3</td>
-	<td style="text-align:center">1151.58</td>
-	<td style="text-align:center">884.98</td>
-	<td style="text-align:center">946.76</td>
-	<td style="text-align:center">835.63</td>
-</tr>
-<tr>
-	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">1101.57</td>
-	<td style="text-align:center">899.08</td>
-	<td style="text-align:center">860.03</td>
-	<td style="text-align:center">816.48</td>
-</tr>
+	
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Attr. triples</td>
+	
+</table>
+
+<table style="text-align:center;font-size:10px" align="center">
+    <tr>
+        <th style="text-align:center"  colspan="21">DBP-WD-100K</th>
+    </tr>
+    <tr>
+        <td colspan="2" rowspan="2"></td>
+        <td style="text-align:center" colspan="2">V1</td>
+        <td style="text-align:center" colspan="2">V2</td>
+    </tr>
+    <tr>
+        <td style="text-align:center">DBpedia</td>
+        <td style="text-align:center">Wikidata</td>
+        <td style="text-align:center">DBpedia</td>
+        <td style="text-align:center">Wikidata</td>
+    </tr>
+    <tr>
+	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
 	<td style="text-align:center">S1</td>
-	<td style="text-align:center">0.29</td>
-	<td style="text-align:center">0.28</td>
-	<td style="text-align:center">0.3</td>
-	<td style="text-align:center">0.34</td>
-</tr>
+	<td style="text-align:center">329</td>
+	<td style="text-align:center">331</td>
+	<td style="text-align:center">331</td>
+	<td style="text-align:center">330</td></tr>
 <tr>
 	<td style="text-align:center">S2</td>
-	<td style="text-align:center">0.28</td>
-	<td style="text-align:center">0.29</td>
-	<td style="text-align:center">0.28</td>
-	<td style="text-align:center">0.32</td>
-</tr>
+	<td style="text-align:center">257</td>
+	<td style="text-align:center">254</td>
+	<td style="text-align:center">256</td>
+	<td style="text-align:center">256</td></tr>
 <tr>
 	<td style="text-align:center">S3</td>
-	<td style="text-align:center">0.31</td>
-	<td style="text-align:center">0.34</td>
-	<td style="text-align:center">0.32</td>
-	<td style="text-align:center">0.31</td>
-</tr>
+	<td style="text-align:center">305</td>
+	<td style="text-align:center">310</td>
+	<td style="text-align:center">305</td>
+	<td style="text-align:center">307</td></tr>
 <tr>
 	<td style="text-align:center">AVG</td>
-	<td style="text-align:center">0.29</td>
-	<td style="text-align:center">0.3</td>
-	<td style="text-align:center">0.3</td>
-	<td style="text-align:center">0.32</td>
-</tr>
+	<td style="text-align:center">163</td>
+	<td style="text-align:center">167</td>
+	<td style="text-align:center">169</td>
+	<td style="text-align:center">166</td></tr>
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=4>Attributes</td>
+	
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=4>Rel. triples</td>
+	
+<tr>
+	<td style="text-align:center;valign:middle" rowspan=4>Attr. triples</td>
+	
 </table>
 
 ### Code
