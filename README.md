@@ -30,7 +30,7 @@ The statistics of the 100K datasets are shown below.
         <td style="text-align:center">JAPE</td>
     </tr>
     <tr>
-	<td style="text-align:center;valign:middle" rowspan=5>Relationships</td>
+	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">22.05</td>
 	<td style="text-align:center">21.84</td>
@@ -68,7 +68,7 @@ The statistics of the 100K datasets are shown below.
 </tr>
     
 <tr>
-	<td style="text-align:center;valign:middle" rowspan=5>Attributes</td>
+	<td style="text-align:center;valign:middle" rowspan=4>Attributes</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">41.38</td>
 	<td style="text-align:center">40.13</td>
@@ -105,7 +105,7 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">45.86</td>
 </tr>	
 <tr>
-	<td style="text-align:center;valign:middle" rowspan=5>Rel. triples</td>
+	<td style="text-align:center;valign:middle" rowspan=4>Rel. triples</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">1111.74</td>
 	<td style="text-align:center">876.47</td>
@@ -142,7 +142,7 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">622.84</td>
 </tr>
 <tr>
-	<td style="text-align:center;valign:middle" rowspan=5>Attr. triples</td>
+	<td style="text-align:center;valign:middle" rowspan=4>Attr. triples</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">0.29</td>
 	<td style="text-align:center">0.28</td>
