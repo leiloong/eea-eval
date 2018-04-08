@@ -81,80 +81,140 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">41.38</td>
 	<td style="text-align:center">40.13</td>
-	<td style="text-align:center">43.32</td></tr>
+	<td style="text-align:center">43.32</td>
+	<td style="text-align:center">49.3</td>
+	<td style="text-align:center">59.2</td>
+	<td style="text-align:center">43.57</td>
+</tr>
 <tr>
 	<td style="text-align:center">S2</td>
 	<td style="text-align:center">40.31</td>
 	<td style="text-align:center">42.52</td>
-	<td style="text-align:center">40.92</td></tr>
+	<td style="text-align:center">40.92</td>
+	<td style="text-align:center">46.15</td>
+	<td style="text-align:center">54.91</td>
+	<td style="text-align:center">47.55</td>
+</tr>
 <tr>
 	<td style="text-align:center">S3</td>
 	<td style="text-align:center">44.14</td>
 	<td style="text-align:center">48.57</td>
-	<td style="text-align:center">46.16</td></tr>
+	<td style="text-align:center">46.16</td>
+	<td style="text-align:center">45.5</td>
+	<td style="text-align:center">53.74</td>
+	<td style="text-align:center">46.47</td>
+</tr>
 <tr>
 	<td style="text-align:center">AVG</td>
 	<td style="text-align:center">41.94</td>
 	<td style="text-align:center">43.74</td>
-	<td style="text-align:center">43.47</td></tr>
+	<td style="text-align:center">43.47</td>
+	<td style="text-align:center">46.98</td>
+	<td style="text-align:center">55.95</td>
+	<td style="text-align:center">45.86</td>
+</tr>
 <tr>
 	<td style="text-align:center">STDEV</td>
 	<td style="text-align:center">1.98</td>
 	<td style="text-align:center">4.35</td>
-	<td style="text-align:center">2.62</td></tr>    
+	<td style="text-align:center">2.62</td>
+	<td style="text-align:center">2.03</td>
+	<td style="text-align:center">2.87</td>
+	<td style="text-align:center">2.06</td>
+</tr>    
 	
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=5>MR</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">1111.74</td>
 	<td style="text-align:center">876.47</td>
-	<td style="text-align:center">790.99</td></tr>
+	<td style="text-align:center">790.99</td>
+	<td style="text-align:center">628.08</td>
+	<td style="text-align:center">243.95</td>
+	<td style="text-align:center">534.53</td>
+</tr>
 <tr>
 	<td style="text-align:center">S2</td>
 	<td style="text-align:center">1041.4</td>
 	<td style="text-align:center">935.78</td>
-	<td style="text-align:center">842.33</td></tr>
+	<td style="text-align:center">842.33</td>
+	<td style="text-align:center">985.74</td>
+	<td style="text-align:center">480.58</td>
+	<td style="text-align:center">754.94</td>
+</tr>
 <tr>
 	<td style="text-align:center">S3</td>
 	<td style="text-align:center">1151.58</td>
 	<td style="text-align:center">884.98</td>
-	<td style="text-align:center">946.76</td></tr>
+	<td style="text-align:center">946.76</td>
+	<td style="text-align:center">835.63</td>
+	<td style="text-align:center">440.26</td>
+	<td style="text-align:center">579.05</td>
+</tr>
 <tr>
 	<td style="text-align:center">AVG</td>
 	<td style="text-align:center">1101.57</td>
 	<td style="text-align:center">899.08</td>
-	<td style="text-align:center">860.03</td></tr>
+	<td style="text-align:center">860.03</td>
+	<td style="text-align:center">816.48</td>
+	<td style="text-align:center">388.26</td>
+	<td style="text-align:center">622.84</td>
+</tr>
 <tr>
 	<td style="text-align:center">STDEV</td>
 	<td style="text-align:center">55.79</td>
 	<td style="text-align:center">32.07</td>
-	<td style="text-align:center">79.38</td></tr>
+	<td style="text-align:center">79.38</td>
+	<td style="text-align:center">179.6</td>
+	<td style="text-align:center">126.59</td>
+	<td style="text-align:center">116.55</td>
+</tr>
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=5>MRR</td>
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">0.29</td>
 	<td style="text-align:center">0.28</td>
-	<td style="text-align:center">0.3</td></tr>
+	<td style="text-align:center">0.3</td>
+	<td style="text-align:center">0.34</td>
+	<td style="text-align:center">0.4</td>
+	<td style="text-align:center">0.29</td>
+</tr>
 <tr>
 	<td style="text-align:center">S2</td>
 	<td style="text-align:center">0.28</td>
 	<td style="text-align:center">0.29</td>
-	<td style="text-align:center">0.28</td></tr>
+	<td style="text-align:center">0.28</td>
+	<td style="text-align:center">0.32</td>
+	<td style="text-align:center">0.38</td>
+	<td style="text-align:center">0.33</td>
+</tr>
 <tr>
 	<td style="text-align:center">S3</td>
 	<td style="text-align:center">0.31</td>
 	<td style="text-align:center">0.34</td>
-	<td style="text-align:center">0.32</td></tr>
+	<td style="text-align:center">0.32</td>
+	<td style="text-align:center">0.31</td>
+	<td style="text-align:center">0.37</td>
+	<td style="text-align:center">0.31</td>
+</tr>
 <tr>
 	<td style="text-align:center">AVG</td>
 	<td style="text-align:center">0.29</td>
 	<td style="text-align:center">0.3</td>
-	<td style="text-align:center">0.3</td></tr>
+	<td style="text-align:center">0.3</td>
+	<td style="text-align:center">0.32</td>
+	<td style="text-align:center">0.38</td>
+	<td style="text-align:center">0.31</td>
+</tr>
 <tr>
 	<td style="text-align:center">STDEV</td>
 	<td style="text-align:center">0.01</td>
 	<td style="text-align:center">0.03</td>
-	<td style="text-align:center">0.02</td></tr>
+	<td style="text-align:center">0.02</td>
+	<td style="text-align:center">0.01</td>
+	<td style="text-align:center">0.02</td>
+	<td style="text-align:center">0.02</td>
+</tr>
 
 </table>
 
