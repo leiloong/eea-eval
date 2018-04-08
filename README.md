@@ -51,19 +51,16 @@ The statistics of the 100K datasets are shown below.
         <td style="text-align:center">23.24</td>
         <td style="text-align:center">22.08</td>
         <td style="text-align:center">1.15</td>
-        
         <td style="text-align:center">41.38</td>
         <td style="text-align:center">40.31</td>
         <td style="text-align:center">44.14</td>
         <td style="text-align:center">41.94</td>
         <td style="text-align:center">1.98</td>
-        
         <td style="text-align:center">1111.74</td>
         <td style="text-align:center">1041.40</td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
-        
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
         <td style="text-align:center"></td>
