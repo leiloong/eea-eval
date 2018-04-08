@@ -13,14 +13,14 @@ For each dataset, we have xx files:
 The statistics of the 100K datasets are shown below.
 <table>
     <tr>
-        <td style="text-align:center" colspan="21">DBP-WD-V1</td>
+        <td style="text-align:center" colspan=21>DBP-WD-V1</td>
     </tr>
     <tr>
-        <td style="text-align:center" rowspan="2"></td>
-        <td style="text-align:center" colspan="5">Hits@1</td>
-        <td style="text-align:center" colspan="5">Hits@10</td>
-        <td style="text-align:center" colspan="5">MR</td>
-        <td style="text-align:center" colspan="5">MRR</td>
+        <td style="text-align:center" rowspan=2></td>
+        <td style="text-align:center" colspan=5>Hits@1</td>
+        <td style="text-align:center" colspan=5>Hits@10</td>
+        <td style="text-align:center" colspan=5>MR</td>
+        <td style="text-align:center" colspan=5>MRR</td>
     </tr>
     <tr>
         <td style="text-align:center">S1</td>
