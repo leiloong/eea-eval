@@ -65,7 +65,7 @@ The statistics of the 100K datasets are shown below.
 
 <table style="text-align:center;font-size:10px" align="center">
     <tr>
-        <th style="text-align:center"  colspan="21">DBP-WD-100K</th>
+        <th style="text-align:center"  colspan="21">DBP-YG-100K</th>
     </tr>
     <tr>
         <td colspan="2" rowspan="2"></td>
@@ -74,9 +74,9 @@ The statistics of the 100K datasets are shown below.
     </tr>
     <tr>
         <td style="text-align:center">DBpedia</td>
-        <td style="text-align:center">Wikidata</td>
+        <td style="text-align:center">YAGO</td>
         <td style="text-align:center">DBpedia</td>
-        <td style="text-align:center">Wikidata</td>
+        <td style="text-align:center">YAGO</td>
     </tr>
     <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
@@ -116,18 +116,15 @@ The statistics of the 100K datasets are shown below.
 
 <table style="text-align:center;font-size:10px" align="center">
     <tr>
-        <th style="text-align:center"  colspan="21">DBP-WD-100K</th>
-    </tr>
-    <tr>
         <td colspan="2" rowspan="2"></td>
-        <td style="text-align:center" colspan="2">V1</td>
-        <td style="text-align:center" colspan="2">V2</td>
+        <td style="text-align:center" colspan="2">DBP(en_fr)-100K</td>
+        <td style="text-align:center" colspan="2">DBP(en_fr)-100K</td>
     </tr>
     <tr>
-        <td style="text-align:center">DBpedia</td>
-        <td style="text-align:center">Wikidata</td>
-        <td style="text-align:center">DBpedia</td>
-        <td style="text-align:center">Wikidata</td>
+        <td style="text-align:center">en</td>
+        <td style="text-align:center">fr</td>
+        <td style="text-align:center">en</td>
+        <td style="text-align:center">de</td>
     </tr>
     <tr>
 	<td style="text-align:center;valign:middle" rowspan=4>Relationships</td>
