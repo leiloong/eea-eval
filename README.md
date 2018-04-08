@@ -411,9 +411,6 @@ The statistics of the 100K datasets are shown below.
         <td style="text-align:center">MTransE</td>
         <td style="text-align:center">IPTransE</td>
         <td style="text-align:center">JAPE</td>
-        <td style="text-align:center">MTransE</td>
-        <td style="text-align:center">IPTransE</td>
-        <td style="text-align:center">JAPE</td>
     </tr>
     <tr>
 	<td style="text-align:center;valign:middle" rowspan=5>Hits@1</td>
@@ -527,9 +524,6 @@ The statistics of the 100K datasets are shown below.
     </tr>
     <tr>
 	<td colspan="2"></td>
-        <td style="text-align:center">MTransE</td>
-        <td style="text-align:center">IPTransE</td>
-        <td style="text-align:center">JAPE</td>
         <td style="text-align:center">MTransE</td>
         <td style="text-align:center">IPTransE</td>
         <td style="text-align:center">JAPE</td>
