@@ -4,11 +4,12 @@
 ### Dataset
 Our datasets can be found [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0). It contains three folders namely "_1", "_2" and "_3", denoting our three samples.
 
-For each dataset, we have xx files:
-* file1:
-* file2:
-* filex:
-...
+For each dataset, we have 5 files:
+* ent_links: all the reference entity alignmet
+* triples_1: relation triples of sampled entities in KG1
+* triples_2: relation triples of sampled entities in KG2
+* attr_triples_1: attribute triples of sampled entities in KG1
+* attr_triples_2: attribute triples of sampled entities in KG2
 
 The statistics of the 100K datasets are shown below.
 
