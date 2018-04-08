@@ -34,27 +34,47 @@ The statistics of the 100K datasets are shown below.
 	<td style="text-align:center">S1</td>
 	<td style="text-align:center">22.05</td>
 	<td style="text-align:center">21.84</td>
-	<td style="text-align:center">22.67</td></tr>
+	<td style="text-align:center">22.67</td>
+	<td style="text-align:center">25.4</td>
+	<td style="text-align:center">30.71</td>
+	<td style="text-align:center">21.1</td></tr>
+	</tr>
 <tr>
 	<td style="text-align:center">S2</td>
 	<td style="text-align:center">20.94</td>
 	<td style="text-align:center">22.12</td>
-	<td style="text-align:center">20.88</td></tr>
+	<td style="text-align:center">20.88</td>
+	<td style="text-align:center">24.33</td>
+	<td style="text-align:center">29.16</td>
+	<td style="text-align:center">24.85</td>
+</tr>
 <tr>
 	<td style="text-align:center">S3</td>
 	<td style="text-align:center">23.24</td>
 	<td style="text-align:center">25.78</td>
-	<td style="text-align:center">24.17</td></tr>
+	<td style="text-align:center">24.17</td>
+	<td style="text-align:center">23.1</td>
+	<td style="text-align:center">27.81</td>
+	<td style="text-align:center">23.23</td>
+</tr>
 <tr>
 	<td style="text-align:center">AVG</td>
 	<td style="text-align:center">22.08</td>
 	<td style="text-align:center">23.25</td>
-	<td style="text-align:center">22.57</td></tr>
+	<td style="text-align:center">22.57</td>
+	<td style="text-align:center">24.28</td>
+	<td style="text-align:center">29.23</td>
+	<td style="text-align:center">23.06</td>
+</tr>
 <tr>
 	<td style="text-align:center">STDEV</td>
 	<td style="text-align:center">1.15</td>
 	<td style="text-align:center">2.2</td>
-	<td style="text-align:center">1.65</td></tr>
+	<td style="text-align:center">1.65</td>
+	<td style="text-align:center">1.15</td>
+	<td style="text-align:center">1.45</td>
+	<td style="text-align:center">1.88</td>
+</tr>
     
 <tr>
 	<td style="text-align:center;valign:middle" rowspan=5>Hits@10</td>
