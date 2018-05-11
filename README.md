@@ -375,18 +375,29 @@ The statistics of the 100K datasets are shown below.
 </tr>
 </table>
 
-## Code
+### Code
 
+#### Code files
 Folder "code" contains two subfolders: 
-* "comparative_method" contains the code of all comparative methods.
+* "comparative_method" contains the code of all comparative methods. The correspondence between code files and the methods are as follows:
+	* "MTransE.py": MTransE
+	* "IPTransE.py": IPTransE
+	* "JAPE.py": JAPE
+	* "TransD_plus.py": TransD+
+	* "TransH_plus.py": TransH+
+	* "TransH_2plus.py": TransH++
+	* "Label2Vec.py": Label2Vec
 * "data_handler" contains the code of our degree-based sampling method.
 
-### Dependencies
-* Python 3
-* Tensorflow
-* Scipy
-* Numpy
-* sklearn
+#### Dependencies
+The code is based on *Python 3*, *Tensorflow*, *Scipy*, *Numpy*, *sklearn*.
+
+#### Code running
+For running code, you need to modify the training data path and the supervision ratio in code files and then execute *python3 "code_file.py"*. For example, if you want to run *MTransE* on *DBP-WD-15K-V1* with 30% supervision, you should first set the two parameters in the main function of *MTransE.py* as *"../ISWC2018/dbp_wd_15k_V1/"* and 0.3, respectively. Then you need to execute *python3 MTransE.py*. During running, logs and results will be printed on screen.
+
+Another simple way to run the code is to execute *python3 "code_file.py" "data folder" "supervision ratio"*. For the above example, you can directly execute *python3 MTransE.py ../ISWC2018/dbp_wd_15k_V1/ 0.3*. 
+
+As for the parameters used in referred methods, you can modify them as you need in file "param.py".
 
 ## Experimental Results
 The file detailed_result.csv contains our detailed experimental results. 
