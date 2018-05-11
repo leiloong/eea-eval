@@ -14,7 +14,7 @@ We considered the following four aspects to build our datasets: source KG, datas
 All datasets can be downloaded from [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
 
 ### Degree distribution example
-![](figure/degree_CDF.pdf)
+![](https://github.com/nju-websoft/eea-eval/blob/master/figure/degree_CDF.pdf)
 
 ### 100K datasets statistics
 The statistics of the 100K datasets are shown below.
