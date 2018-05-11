@@ -1,16 +1,19 @@
-## Experimental analysis of knowledge graph embedding for entity alignment
+# Experimental analysis of knowledge graph embedding for entity alignment
 > We developed a degree-based sampling method to generate 42 alignment-oriented datasets from real-world large-scale KGs, representing different heterogeneities of the original KGs. We selected three state-of-the-art embedding-based entity alignment methods for evaluation and comparison. Furthermore, we observed that multi-mapping relations and literal embedding are the two main obstacles for embedding-based entity alignment and some preliminary solutions were attempted. Specifically, we leveraged several enhanced KG embedding models to handle multi-mapping relations and used word2vec to incorporate literal similarities into embeddings. Our findings indicate that the performance of existing embedding-based methods is influenced by the characteristics of datasets and not all KG embedding models are suitable for entity alignment. Alignment-oriented KG embedding remains to be explored.
 
-### Dataset
-All datasets can be downloaded from [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
-
-For each dataset, we have five files:
+## Dataset
+### Description
+We considered the following four aspects to build our datasets: source KG, dataset language, entity size and difference of degree distributions between the extracted datasets and original KGs. We selected three well-known KGs as our sources: DBpedia (2016-10), Wikidata (20160801) and YAGO3. For DBpedia, we also formed two cross-lingual datasets: English-French and English-German. In terms of entity sizes, we sampled two kinds of datasets with 15K and 100K entities, respectively. Each dataset contains two versions, V1 and V2, where V1 approximates the degree distribution of source KG, while V2 fits the doubled average degree. Due to lack of enough prior alignment, we only built V1 for cross-lingual DBP-100K. For each dataset, we have five files:
 * ent_links: reference entity alignmet
 * triples_1: relation triples of sampled entities in KG1
 * triples_2: relation triples of sampled entities in KG2
 * attr_triples_1: attribute triples of sampled entities in KG1
 * attr_triples_2: attribute triples of sampled entities in KG2
 
+### Download
+All datasets can be downloaded from [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
+
+### 100K datasets statistics
 The statistics of the 100K datasets are shown below.
 
 <table style="text-align:center;font-size:10px" align="center">
@@ -369,20 +372,20 @@ The statistics of the 100K datasets are shown below.
 </tr>
 </table>
 
-### Code
+## Code
 
 Folder "code" contains two subfolders: 
 * "comparative_method" contains the code of all comparative methods.
 * "data_handler" contains the code of our degree-based sampling method.
 
-#### Dependencies
+### Dependencies
 * Python 3
 * Tensorflow
 * Scipy
 * Numpy
 * sklearn
 
-### Experimental Results
+## Experimental Results
 The file results.xlsx contains our detailed experimental results. 
 Folder "figure" contains some figures about our experimental results.
 
