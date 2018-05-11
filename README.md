@@ -13,6 +13,9 @@ We considered the following four aspects to build our datasets: source KG, datas
 ### Download
 All datasets can be downloaded from [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
 
+### Degree distribution example
+![](figure/degree_CDF.pdf)
+
 ### 100K datasets statistics
 The statistics of the 100K datasets are shown below.
 
@@ -386,7 +389,7 @@ Folder "code" contains two subfolders:
 * sklearn
 
 ## Experimental Results
-The file detailed_results.csv contains our detailed experimental results. 
+The file detailed_result.csv contains our detailed experimental results. 
 Folder "figure" contains some figures about our experimental results.
 
 > If you have any difficulty or question about our datasets, source code or reproducing expriment results, please email to qhzhang.nju@gmail.com, zqsun.nju@gmail.com or whu@nju.edu.cn.
