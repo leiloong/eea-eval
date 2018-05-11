@@ -3,7 +3,7 @@
 
 ## Dataset
 ### Description
-We considered the following four aspects to build our datasets: source KG, dataset language, entity size and difference of degree distributions between the extracted datasets and original KGs. We selected three well-known KGs as our sources: DBpedia (2016-10), Wikidata (20160801) and YAGO3. For DBpedia, we also formed two cross-lingual datasets: English-French and English-German. In terms of entity sizes, we sampled two kinds of datasets with 15K and 100K entities, respectively. Each dataset contains two versions, V1 and V2, where V1 approximates the degree distribution of source KG, while V2 fits the doubled average degree. Due to lack of enough prior alignment, we only built V1 for cross-lingual DBP-100K. For each dataset, we have five files:
+We considered the following four aspects to build our datasets: source KG, dataset language, entity size and difference of degree distributions between the extracted datasets and original KGs. We selected three well-known KGs as our sources: DBpedia (2016-10), Wikidata (20160801) and YAGO3. For DBpedia, we also formed two cross-lingual datasets: English-French and English-German. In terms of entity sizes, we sampled two kinds of datasets with 15K and 100K entities, respectively. Each dataset contains two versions, V1 and V2, where V1 approximates the degree distribution of source KG, while V2 fits the doubled average degree. Due to lack of enough prior alignment, we only built V1 for cross-lingual DBP-100K. For each version, three samples were generated to prevent randomness. For each dataset, we have five files:
 * ent_links: reference entity alignmet
 * triples_1: relation triples of sampled entities in KG1
 * triples_2: relation triples of sampled entities in KG2
@@ -14,7 +14,9 @@ We considered the following four aspects to build our datasets: source KG, datas
 All datasets can be downloaded from [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
 
 ### Degree distribution example
-![](https://github.com/nju-websoft/eea-eval/blob/master/figure/degree_CDF.pdf)
+As shown below, this is an example of degree distributions of source KGs and sampled datasets. The sampled dataset in figure is WDB-WD-15K. The red curve represents the V1 version, and the blue curve represents the V2 version. The solid curve represents the source KG, and dotted curve represents the sampled dataset.
+![](figure/degree_CDF.png "Degree distributions of example source KGs and sampled datasets")
+
 
 ### 100K datasets statistics
 The statistics of the 100K datasets are shown below.
