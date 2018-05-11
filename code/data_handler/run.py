@@ -37,17 +37,9 @@ def generate_raw_data():
 
     # 提取 ent_links
     ent_links = elg.extract_links_by_dbp_raw_links_file(set(ent_attrs_dict_1.keys()), set(ent_attrs_dict_2.keys()))
-    # if config.KB_TYPE_1 == 'en':
-    #    ent_links = elg.extract_links_by_dbp_raw_links_file(set(ent_attrs_dict_1.keys()), set(ent_attrs_dict_2.keys()))
-    # else:
-    #     ent_links = elg.extract_links_by_dbp_raw_links_file_for_fr_wd(set(ent_attrs_dict_1.keys()),
-    #                                                                   set(ent_attrs_dict_2.keys()))
     print("len(ent_links) = ", len(ent_links))
     print("elg.extract_links_by_dbp_raw_links_file")
 
-    # 生成2个attr文件、1个link_attr文件
-    # write_attr(ent_attrs_dict_1, ent_attrs_dict_2, ent_links)
-    # print("write_attr")
     # 保存中间结果
     save_temp_file(config.TEMP_ENT_LINKS, ent_links)
 
