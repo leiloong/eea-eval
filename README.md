@@ -11,7 +11,7 @@ We considered the following four aspects to build our datasets: source KG, datas
 * attr_triples_2: attribute triples of sampled entities in KG2
 
 ### Download
-All datasets can be downloaded from [here](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
+All datasets can be downloaded from [Datahub](https://datahub.io/sunzequn/iswc2018-dataset-selfish-mule-69/r/iswc2018-dataset.7z) or  [Dropbox](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
 
 ### Degree distribution example
 As shown below, this is an example of degree distributions of source KGs and sampled datasets. The sampled dataset in figure is WDB-WD-15K. The red curve represents the V1 version, and the blue curve represents the V2 version. The solid curve represents the source KG, and dotted curve represents the sampled dataset.
@@ -377,9 +377,9 @@ The statistics of the 100K datasets are shown below.
 </tr>
 </table>
 
-### Code
+## Code
 
-#### Code files
+### Code files
 Folder "code" contains two subfolders: 
 * "comparative_method" contains the code of all comparative methods. The correspondence between code files and the methods are as follows:
 	* "MTransE.py": MTransE
@@ -391,10 +391,10 @@ Folder "code" contains two subfolders:
 	* "Label2Vec.py": Label2Vec
 * "data_handler" contains the code of our degree-based sampling method.
 
-#### Dependencies
+### Dependencies
 The code is based on *Python 3*, *Tensorflow*, *Scipy*, *Numpy*, *sklearn*.
 
-#### Code running
+### Code running
 For running code, you need to modify the training data path and the supervision ratio in code files and then execute *python3 "code_file.py"*. For example, if you want to run *MTransE* on *DBP-WD-15K-V1* with 30% supervision, you should first set the two parameters in the main function of *MTransE.py* as *"../ISWC2018/dbp_wd_15k_V1/"* and 0.3, respectively. Then you need to execute *python3 MTransE.py*. During running, logs and results will be printed on screen.
 
 Another simple way to run the code is to execute *python3 "code_file.py" "data folder" "supervision ratio"*. For the above example, you can directly execute *python3 MTransE.py ../ISWC2018/dbp_wd_15k_V1/ 0.3*. 
