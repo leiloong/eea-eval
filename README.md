@@ -11,7 +11,7 @@ We considered the following four aspects to build our datasets: source KG, datas
 * attr_triples_2: attribute triples of sampled entities in KG2
 
 ### Download
-All datasets can be downloaded from [Datahub](https://datahub.io/sunzequn/iswc2018-dataset-selfish-mule-69/r/iswc2018-dataset.7z) or  [Dropbox](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
+All datasets can be downloaded from [Datahub](https://datahub.io/sunzequn/iswc2018-dataset) or  [Dropbox](https://www.dropbox.com/s/jmkumdyv6etx4hn/iswc2018-dataset.7z?dl=0), in which three folders named "_1", "_2" and "_3" denote our three samples.
 
 ### Degree distribution example
 As shown below, this is an example of degree distributions of source KGs and sampled datasets. The sampled dataset in figure is WDB-WD-15K. The red curve represents the V1 version, and the blue curve represents the V2 version. The solid curve represents the source KG, and dotted curve represents the sampled dataset.
